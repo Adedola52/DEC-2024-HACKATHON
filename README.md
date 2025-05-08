@@ -20,7 +20,7 @@ Connected the SQL Server database to a BI tool (Power BI) to create interactive 
 
 ## Visualization:
 ![image alt](https://github.com/Adedola52/DEC-2024-HACKATHON/blob/902a242dae44a067c5d647bf6bae454e35fb81b8/Visualization/Dashboard.png)
-![image alt]()
+![image alt](https://github.com/Adedola52/DEC-2024-HACKATHON/blob/cd023892011c703507575a23bea1578b18ddb9a0/Visualization/Dashboard%20(2).png)
 
 ## Insights
 - There are 7 continents, and at least 3 countries are transcontinental Russia, Turkey, and Azerbaijan as they span more than one continent. This overlap leads some to loosely describe the landmass as 8 continental regions,
