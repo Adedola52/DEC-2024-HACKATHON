@@ -16,7 +16,7 @@ As a data engineer at a travel agency, you have been tasked with integrating dat
 Connected the SQL Server database to a BI tool (Power BI) to create interactive dashboards and visualizations that showcase insights from the Country data
 
 ## Architecture flow:
-![image alt](
+![image alt](https://github.com/Adedola52/DEC-2024-HACKATHON/blob/706e9c224fd3513d299296b2dc3633fe2d033aea/Architecture_flow.jpg)
 
 ## Insights
 - There are 7 continents, and at least 3 countries are transcontinental Russia, Turkey, and Azerbaijan as they span more than one continent. This overlap leads some to loosely describe the landmass as 8 continental regions,
