@@ -6,7 +6,7 @@ import json
 import os 
 import requests 
 
-# # Retrieve the value stored in the environment variable
+# Retrieve the value stored in the environment variable
 data_folder = os.getenv("data_folder") 
 file_path = f"{data_folder}/data_frame.csv" 
 
