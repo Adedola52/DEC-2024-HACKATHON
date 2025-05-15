@@ -16,7 +16,7 @@ As a data engineer at a travel agency, you have been tasked with integrating dat
 Connected the SQL Server database to a BI tool (Power BI) to create interactive dashboards and visualizations that showcase insights from the Country data
 
 ## Architecture flow:
-![image alt](https://github.com/Adedola52/DEC-2024-HACKATHON/blob/706e9c224fd3513d299296b2dc3633fe2d033aea/Architecture_flow.jpg)
+![image alt](https://github.com/Adedola52/DEC-2024-HACKATHON/blob/0eb164e5deb8eda26a62d1bbc096ca2d59768e71/Architecture_diagram.png)
 
 ## Visualization:
 ![image alt](https://github.com/Adedola52/DEC-2024-HACKATHON/blob/902a242dae44a067c5d647bf6bae454e35fb81b8/Visualization/Dashboard.png)
